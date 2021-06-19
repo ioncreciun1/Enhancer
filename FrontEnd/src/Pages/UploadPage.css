@@ -1,0 +1,30 @@
+.input
+{
+    display: none;
+}
+
+.UploadPhotoWrapper
+{
+    height: calc(100% - 74px);
+    background-image: url("../Images/beach.svg");
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.UploadPageWrapper
+{
+    height: 100%;
+}
+
+
+.UploadButton
+{
+    padding: 10% 20%;
+    border: 10px dashed white;
+    border-radius: 5px;
+}
+

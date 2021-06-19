@@ -1,0 +1,42 @@
+
+
+.wrapperImage1{
+    background-image: url("../Images/beach.svg");
+    height: 100%;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapperImage2{
+    background-image: url("../Images/low-reshi-res-images.jpg");
+    height: 100%;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapperVideo
+{
+    height: 100%;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../Images/BlackWhiteVideo.gif");
+}
+.ImageComponentText
+{
+    color: #fff;
+}
+
+
+.wrapperImage1:hover{
+   background-image: url("../Images/BeachColor.svg");
+}
+.wrapperImage2:hover{
+    background-image: url("../Images/high-reshi-res-images.jpg");
+ }
